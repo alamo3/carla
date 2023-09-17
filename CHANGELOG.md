@@ -1,5 +1,6 @@
 ## CARLA 0.9.14
 
+  * Added build support for VS2022 and Ninja for LibCarla and osm2odr on Windows
   * Fixed tutorial for adding a sensor to CARLA.
   * Fixed bug in FrictionTrigger causing sometimes server segfault
   * Added attachment type "SpringArmGhost" for cinematic cameras but without doing the collision test.
